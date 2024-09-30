@@ -1207,12 +1207,12 @@
     jsonc-parser "3.3.1"
     pluralize "8.0.0"
 
-"@nestjs/testing@^9.4.3":
-  version "9.4.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-9.4.3.tgz#53ffbabdd38f500b145c30f2fbb76dedad393d79"
-  integrity sha512-LDT8Ai2eKnTzvnPaJwWOK03qTaFap5uHHsJCv6dL0uKWk6hyF9jms8DjyVaGsaujCaXDG8izl1mDEER0OmxaZA==
+"@nestjs/testing@^10.4.4":
+  version "10.4.4"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-10.4.4.tgz#1f73f4b6c8d7a996a267ec498679e53763936963"
+  integrity sha512-qRGFj51A5RM7JqA8pcyEwSLA3Y0dle/PAZ8oxP0suimoCusRY3Tk7wYqutZdCNj1ATb678SDaUZDHk2pwSv9/g==
   dependencies:
-    tslib "2.5.3"
+    tslib "2.7.0"
 
 "@nestjs/typeorm@^10.0.2":
   version "10.0.2"
